@@ -20,6 +20,7 @@ relacionados para obtener una visión general del sistema educativo.
 - matplotlib
 - SQLite
 - Jupyter Notebook
+- Power BI
 
 ## Estructura del repositorio
 
